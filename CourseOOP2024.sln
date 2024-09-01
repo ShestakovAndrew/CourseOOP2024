@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntroductionOOP", "IntroductionOOP\IntroductionOOP.vcxproj", "{47F9C72C-A87A-4947-93B3-58D7B520409E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Введение в ООП на С++", "1. Введение в ООП на С++", "{4C9EF0A3-20E5-456E-9D61-0D6AAAD3F166}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Указатель this и конструктор копирования", "2. Указатель this и конструктор копирования", "{FF273E56-8062-49AE-AE35-97A071D2C649}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Константные функции-члены, explicit конструктора", "3. Константные функции-члены, explicit конструктора", "{C9ECD3E0-8706-4094-A502-C5DC18E37890}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Перегрузка операторов", "4. Перегрузка операторов", "{D70C3C18-8B26-4CEE-8AEF-0D51A34CA271}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Шаблоны классов, класс string", "5. Шаблоны классов, класс string", "{8805F098-CD86-4941-9E2F-E547E6F6D4FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Динамические структуры данных", "6. Динамические структуры данных", "{E868F604-47CE-4C5C-8FDB-3E2FF13063AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Агрегация, композиция и наследование", "7. Агрегация, композиция и наследование", "{535C9FCB-42A3-4F1E-A412-7F63D02E2C97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8. Виртуальные функции", "8. Виртуальные функции", "{97B3DAE9-5B44-4CEE-AFC5-6EF9BB094D26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9. Обработка исключительных ситуаций", "9. Обработка исключительных ситуаций", "{F39014C2-B744-41D1-ACA1-E5BDAE4DF30A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10. Пространства имён", "10. Пространства имён", "{A060D6A3-DD29-490A-8B6A-9A2EFFE6F44F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11. Преобразования типов в С++", "11. Преобразования типов в С++", "{7A7C3EE8-BC84-4ECF-A47A-F6343913F4D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12. Работа с потоками", "12. Работа с потоками", "{061354C2-381D-43C9-A0E5-5DEA4DDA81F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13. Умные указатели, STL, лямбда-функции", "13. Умные указатели, STL, лямбда-функции", "{48FE65B2-1066-4198-B728-534CC6CC840B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14. Экзамен", "14. Экзамен", "{DD8DD6D8-476D-4186-AAC9-7B3668777F96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Материал для лекции", "Материал для лекции", "{DA51A6E0-57A4-415C-B544-ECD7F2634C6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Практические задания", "Практические задания", "{83E61BF4-1487-4C2D-BCAB-04BE548293C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Домашние задания", "Домашние задания", "{446EF012-321F-4179-811E-A7E50E4485D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F9C72C-A87A-4947-93B3-58D7B520409E}.Debug|x64.ActiveCfg = Debug|x64
+		{47F9C72C-A87A-4947-93B3-58D7B520409E}.Debug|x64.Build.0 = Debug|x64
+		{47F9C72C-A87A-4947-93B3-58D7B520409E}.Debug|x86.ActiveCfg = Debug|Win32
+		{47F9C72C-A87A-4947-93B3-58D7B520409E}.Debug|x86.Build.0 = Debug|Win32
+		{47F9C72C-A87A-4947-93B3-58D7B520409E}.Release|x64.ActiveCfg = Release|x64
+		{47F9C72C-A87A-4947-93B3-58D7B520409E}.Release|x64.Build.0 = Release|x64
+		{47F9C72C-A87A-4947-93B3-58D7B520409E}.Release|x86.ActiveCfg = Release|Win32
+		{47F9C72C-A87A-4947-93B3-58D7B520409E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47F9C72C-A87A-4947-93B3-58D7B520409E} = {DA51A6E0-57A4-415C-B544-ECD7F2634C6C}
+		{DA51A6E0-57A4-415C-B544-ECD7F2634C6C} = {4C9EF0A3-20E5-456E-9D61-0D6AAAD3F166}
+		{83E61BF4-1487-4C2D-BCAB-04BE548293C8} = {4C9EF0A3-20E5-456E-9D61-0D6AAAD3F166}
+		{446EF012-321F-4179-811E-A7E50E4485D5} = {4C9EF0A3-20E5-456E-9D61-0D6AAAD3F166}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA684971-2F25-4E18-9CC7-5939EFC9FFD3}
+	EndGlobalSection
+EndGlobal
