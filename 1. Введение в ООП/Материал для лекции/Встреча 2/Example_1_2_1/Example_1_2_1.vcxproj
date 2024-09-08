@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b10c750a-4664-4a7e-9e19-6637117b0280}</ProjectGuid>
-    <RootNamespace>DZAfter1</RootNamespace>
+    <ProjectGuid>{2903f9c6-ab58-4700-9c38-82df5b1817f9}</ProjectGuid>
+    <RootNamespace>Example121</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,11 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Lift.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Example_1_2_1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Lift.h" />
+    <ClInclude Include="Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
