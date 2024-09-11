@@ -1,9 +1,9 @@
 #include <iostream>
+#include <vector>
 
 #include "Apartment.h";
 #include "Room.h";
 #include "Roll.h"
-#include <vector>
 
 int main()
 {
