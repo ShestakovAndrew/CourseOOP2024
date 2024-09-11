@@ -62,5 +62,5 @@ int main()
 		rolls.push_back(roll);
 	}
 
-	aparment.CalculateWallpaperRequierments(roll);
+	aparment.CalculateWallpaperRequierments(rolls);
 }
