@@ -23,5 +23,5 @@ double Student::GetAvarageGrade() const
 		}
 	}
 
-	return (count == 0) ? 0 : static_cast<double>(sum/count);
+	return count ? (sum / count) : 0.0;
 }
