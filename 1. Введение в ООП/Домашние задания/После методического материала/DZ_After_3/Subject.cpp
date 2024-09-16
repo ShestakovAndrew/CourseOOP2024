@@ -5,7 +5,7 @@ Subject::Subject(std::string const& name)
 {
 }
 
-std::string Subject::GetSubjectName()
+std::string Subject::GetSubjectName() const
 {
 	return m_name;
 }

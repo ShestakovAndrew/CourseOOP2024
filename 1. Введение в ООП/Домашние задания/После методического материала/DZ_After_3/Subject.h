@@ -6,7 +6,7 @@ class Subject
 public:
 	Subject(std::string const& name);
 
-	std::string GetSubjectName();
+	std::string GetSubjectName() const;
 
 private:
 	std::string m_name;

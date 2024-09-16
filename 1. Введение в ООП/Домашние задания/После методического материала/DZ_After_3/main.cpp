@@ -1,6 +1,12 @@
 #include <string>
 #include <iostream>
 
+#include "Group.h"
+
+void LoadFromFile(std::string const& fileName, Group& group)
+{
+
+}
 
 int main()
 {
@@ -16,9 +22,9 @@ int main()
 
 	LoadFromFile(fileName, group);
 
-	group.printGradesTable();
-	group.printStudentAverage();
-	group.printSubjectAverage();
-	group.printGroupAvarage();
-	group.printMinMaxGrades();
+	group.PrintGradesTable();
+	group.PrintStudentAverage();
+	group.PrintSubjectAverage();
+	group.PrintGroupAverage();
+	group.PrintMinMaxGrades();
 }
