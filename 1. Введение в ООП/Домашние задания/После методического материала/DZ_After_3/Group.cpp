@@ -56,7 +56,7 @@ void Group::PrintSubjectAverage() const
 
 		for (const auto& student : m_students)
 		{
-			if (student.GetStudentGrades().count(subject))
+			if (student.GetStudentGrades().count(subject.GetSubjectName()))
 			{
 				sum += student.GetAvarageGradeBySubject(subject);
 				count++;
@@ -91,9 +91,9 @@ void Group::PrintMinMaxGrades() const
 
 		for (const auto& student : m_students)
 		{
-			if (student.GetStudentGrades().count(subject))
+			if (student.GetStudentGrades().count(subject.GetSubjectName()))
 			{
-				for (int grade : student.GetStudentGrades().at(subject))
+				for (int grade : student.GetStudentGrades().at(subject.GetSubjectName()))
 				{
 					if (grade < minGrade)
 					{
@@ -113,6 +113,5 @@ void Group::PrintMinMaxGrades() const
 		std::cout << subject.GetSubjectName() << std::endl;
 		std::cout << "Минимум: " << minGrade << " (Студент: " << minStudent << ")" << std::endl;
 		std::cout << "Максимум: " << maxGrade << " (Студент: " << maxStudent << ")" << std::endl;
-
 	}
 }
