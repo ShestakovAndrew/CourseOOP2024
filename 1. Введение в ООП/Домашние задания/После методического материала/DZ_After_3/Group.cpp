@@ -8,6 +8,21 @@ Group::Group(std::string const& groupName)
 {
 }
 
+void Group::AddSubject(Subject const& subject)
+{
+	m_subjects.push_back(subject);
+}
+
+void Group::AddStudent(Student const& student)
+{
+	m_students.push_back(student);
+}
+
+std::vector<Subject> Group::GetSubjects() const
+{
+	return m_subjects;
+}
+
 void Group::PrintGradesTable() const
 {
 	std::cout << "Таблица оценок студентов:" << std::endl;

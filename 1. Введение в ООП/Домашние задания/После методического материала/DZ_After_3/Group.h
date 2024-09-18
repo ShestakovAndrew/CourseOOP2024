@@ -14,6 +14,12 @@ private:
 public:
 	Group(std::string const& groupName);
 
+	void AddSubject(Subject const& subjectName);
+
+	void AddStudent(Student const& student);
+
+	std::vector<Subject> GetSubjects() const;
+
 	void PrintGradesTable() const;
 
 	void PrintStudentAverage() const;
