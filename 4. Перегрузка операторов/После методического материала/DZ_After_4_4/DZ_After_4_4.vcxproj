@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{bb170568-81d3-456e-b597-171ba4b584ce}</ProjectGuid>
-    <RootNamespace>LW31</RootNamespace>
+    <ProjectGuid>{8b65e11c-f69e-4116-af25-363810716dcc}</ProjectGuid>
+    <RootNamespace>DZAfter44</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="LW_3_1.cpp" />
+    <ClCompile Include="DZ_After_4_4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
