@@ -37,27 +37,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Лабараторные р
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Домашние задания", "Домашние задания", "{446EF012-321F-4179-811E-A7E50E4485D5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_1", "1. Введение в ООП\Домашние задания\DZ_1\DZ_1.vcxproj", "{3E4AC948-F4C2-4CEF-89B4-786EF33E222D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_1_1", "1. Введение в ООП\Домашние задания\DZ_1_1\DZ_1_1.vcxproj", "{3E4AC948-F4C2-4CEF-89B4-786EF33E222D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_2", "1. Введение в ООП\Домашние задания\DZ_2\DZ_2.vcxproj", "{B358A6D4-ADA5-4890-A726-B8F98010EFDA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_1_2", "1. Введение в ООП\Домашние задания\DZ_1_2\DZ_1_2.vcxproj", "{B358A6D4-ADA5-4890-A726-B8F98010EFDA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_3", "1. Введение в ООП\Домашние задания\DZ_3\DZ_3.vcxproj", "{76876E8E-A261-4957-A3CE-0460CA39DB18}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_1_3", "1. Введение в ООП\Домашние задания\DZ_1_3\DZ_1_3.vcxproj", "{76876E8E-A261-4957-A3CE-0460CA39DB18}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_1_1", "1. Введение в ООП\Лобараторные работы\LW_1_1\LW_1_1.vcxproj", "{AD003EB5-5B2A-498B-87FC-DDD9D58C0587}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_1_2", "1. Введение в ООП\Лобараторные работы\LW_1_2\LW_1_2.vcxproj", "{8027290A-7546-4F24-BE9A-8152CCA5ED35}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_2_1", "1. Введение в ООП\Лобараторные работы\LW_2_1\LW_2_1.vcxproj", "{85FE242A-4225-4621-B932-758B66229998}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_1_3", "1. Введение в ООП\Лобараторные работы\LW_1_3\LW_1_3.vcxproj", "{85FE242A-4225-4621-B932-758B66229998}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_2_2", "1. Введение в ООП\Лобараторные работы\LW_2_2\LW_2_2.vcxproj", "{E37817C3-2A8E-4CCF-9A99-9E326E6F3C4A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_1_4", "1. Введение в ООП\Лобараторные работы\LW_1_4\LW_1_4.vcxproj", "{E37817C3-2A8E-4CCF-9A99-9E326E6F3C4A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_3_1", "1. Введение в ООП\Лобараторные работы\LW_3_1\LW_3_1.vcxproj", "{BEBA502B-435F-4BE8-882A-0F61AC276F2A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_1_7", "1. Введение в ООП\Лобараторные работы\LW_1_7\LW_1_7.vcxproj", "{BEBA502B-435F-4BE8-882A-0F61AC276F2A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_2_3", "1. Введение в ООП\Лобараторные работы\LW_2_3\LW_2_3.vcxproj", "{77F4C148-1040-4C1B-AD84-45DFC2A64DEA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_1_5", "1. Введение в ООП\Лобараторные работы\LW_1_5\LW_1_5.vcxproj", "{77F4C148-1040-4C1B-AD84-45DFC2A64DEA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_2_4", "1. Введение в ООП\Лобараторные работы\LW_2_4\LW_2_4.vcxproj", "{C5BD1844-8B1B-49EB-A307-EC8059A85C19}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_1_6", "1. Введение в ООП\Лобараторные работы\LW_1_6\LW_1_6.vcxproj", "{C5BD1844-8B1B-49EB-A307-EC8059A85C19}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_3_2", "1. Введение в ООП\Лобараторные работы\LW_3_2\LW_3_2.vcxproj", "{AAB7CC6B-0564-4F42-8F74-24EF3F1B6E34}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_1_8", "1. Введение в ООП\Лобараторные работы\LW_1_8\LW_1_8.vcxproj", "{AAB7CC6B-0564-4F42-8F74-24EF3F1B6E34}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Встреча 1", "Встреча 1", "{15D99187-DB84-471A-9766-99F4DAEB7CB9}"
 EndProject
@@ -65,25 +65,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Встреча 2", "Вст�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "После методического материала", "После методического материала", "{FE290502-91CB-40C4-A27D-0A075A421A4B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_1", "1. Введение в ООП\Домашние задания\После методического материала\DZ_After_1\DZ_After_1.vcxproj", "{B10C750A-4664-4A7E-9E19-6637117B0280}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_1_1", "1. Введение в ООП\После методического материала\DZ_After_1_1\DZ_After_1_1.vcxproj", "{B10C750A-4664-4A7E-9E19-6637117B0280}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_2", "1. Введение в ООП\Домашние задания\После методического материала\DZ_After_2\DZ_After_2.vcxproj", "{1DD20640-C9C7-450B-AF39-B356EFCD83F9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_1_2", "1. Введение в ООП\После методического материала\DZ_After_1_2\DZ_After_1_2.vcxproj", "{1DD20640-C9C7-450B-AF39-B356EFCD83F9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_3", "1. Введение в ООП\Домашние задания\После методического материала\DZ_After_3\DZ_After_3.vcxproj", "{B72094BD-2386-4F47-A95F-4E190DD7CF18}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_1_3", "1. Введение в ООП\После методического материала\DZ_After_1_3\DZ_After_1_3.vcxproj", "{B72094BD-2386-4F47-A95F-4E190DD7CF18}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_1", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_1\Example_1_1.vcxproj", "{5F79831D-52F0-42A1-A7F4-95F5433FDB64}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_1", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_1_1\Example_1_1_1.vcxproj", "{5F79831D-52F0-42A1-A7F4-95F5433FDB64}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_2", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_2\Example_1_2.vcxproj", "{391BDAA1-8360-4A91-AD80-6E512CC4BDCE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_2", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_1_2\Example_1_1_2.vcxproj", "{391BDAA1-8360-4A91-AD80-6E512CC4BDCE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_3", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_3\Example_1_3.vcxproj", "{4CD4D074-E563-49CE-99B9-1A1F39F372A4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_3", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_1_3\Example_1_1_3.vcxproj", "{4CD4D074-E563-49CE-99B9-1A1F39F372A4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_4", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_4\Example_1_4.vcxproj", "{1F21C8CF-DA4B-444A-980B-80FEC877B938}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_4", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_1_4\Example_1_1_4.vcxproj", "{1F21C8CF-DA4B-444A-980B-80FEC877B938}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_5", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_5\Example_1_5.vcxproj", "{4A3DC123-7D55-4BD1-819D-5FB201158B09}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_5", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_1_5\Example_1_1_5.vcxproj", "{4A3DC123-7D55-4BD1-819D-5FB201158B09}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_6", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_6\Example_1_6.vcxproj", "{ACE42B17-2F2E-4F0A-8865-7FA3801D26D5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_6", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_1_6\Example_1_1_6.vcxproj", "{ACE42B17-2F2E-4F0A-8865-7FA3801D26D5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_7", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_7\Example_1_7.vcxproj", "{AA32D60B-6453-496F-A9FE-EB2230F86E6B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_1_7", "1. Введение в ООП\Материал для лекции\Встреча 1\Example_1_1_7\Example_1_1_7.vcxproj", "{AA32D60B-6453-496F-A9FE-EB2230F86E6B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_1_2_1", "1. Введение в ООП\Материал для лекции\Встреча 2\Example_1_2_1\Example_1_2_1.vcxproj", "{2903F9C6-AB58-4700-9C38-82DF5B1817F9}"
 EndProject
@@ -107,21 +107,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Встреча 1", "Вст�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Встреча 2", "Встреча 2", "{670DC5C9-3EC1-4948-A55D-89835282FEA5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_4_1", "2. Указатель this и конструктор копирования\Лабораторные работы\LW_4_1\LW_4_1.vcxproj", "{3AB351CD-E5CC-4C8C-AFC1-2293287B3E66}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_2_1", "2. Указатель this и конструктор копирования\Лабораторные работы\LW_2_1\LW_2_1.vcxproj", "{3AB351CD-E5CC-4C8C-AFC1-2293287B3E66}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_4_2", "2. Указатель this и конструктор копирования\Лабораторные работы\LW_4_2\LW_4_2.vcxproj", "{C61ED172-08E7-4692-AFD7-66074535689E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LW_2_2", "2. Указатель this и конструктор копирования\Лабораторные работы\LW_2_2\LW_2_2.vcxproj", "{C61ED172-08E7-4692-AFD7-66074535689E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "После методического материала", "После методического материала", "{B329AC6B-7966-43C2-B9F3-FAD1F021943E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_4", "2. Указатель this и конструктор копирования\Домашние работы\DZ_4\DZ_4.vcxproj", "{2A5AF492-1FB1-4158-8DFF-806B9EF6CC7C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_2_1", "2. Указатель this и конструктор копирования\Домашние работы\DZ_2_1\DZ_2_1.vcxproj", "{2A5AF492-1FB1-4158-8DFF-806B9EF6CC7C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_2_1", "2. Указатель this и конструктор копирования\Домашние работы\После методического материала\DZ_After_2_1\DZ_After_2_1.vcxproj", "{E87A3146-00EE-4EB7-BD6E-0247020FE20F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_2_1", "2. Указатель this и конструктор копирования\После методического материала\DZ_After_2_1\DZ_After_2_1.vcxproj", "{E87A3146-00EE-4EB7-BD6E-0247020FE20F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_2_2", "2. Указатель this и конструктор копирования\Домашние работы\После методического материала\DZ_After_2_2\DZ_After_2_2.vcxproj", "{448A38EC-EDDA-4028-A386-D753C8869E0F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_2_2", "2. Указатель this и конструктор копирования\После методического материала\DZ_After_2_2\DZ_After_2_2.vcxproj", "{448A38EC-EDDA-4028-A386-D753C8869E0F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_2_3", "2. Указатель this и конструктор копирования\Домашние работы\После методического материала\DZ_After_2_3\DZ_After_2_3.vcxproj", "{16EE69AB-3247-4BD0-9CCC-F2B9B74B9BC5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_2_3", "2. Указатель this и конструктор копирования\После методического материала\DZ_After_2_3\DZ_After_2_3.vcxproj", "{16EE69AB-3247-4BD0-9CCC-F2B9B74B9BC5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_2_4", "2. Указатель this и конструктор копирования\Домашние работы\После методического материала\DZ_After_2_4\DZ_After_2_4.vcxproj", "{AC4DB7E9-0F6D-43C0-A172-63A56A716C61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_2_4", "2. Указатель this и конструктор копирования\После методического материала\DZ_After_2_4\DZ_After_2_4.vcxproj", "{AC4DB7E9-0F6D-43C0-A172-63A56A716C61}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_2_1_1", "2. Указатель this и конструктор копирования\Материал для лекций\Встреча 1\Example_2_1_1\Example_2_1_1.vcxproj", "{B37DA587-3D67-4539-84D7-FCA1C391D0C7}"
 EndProject
@@ -186,6 +186,54 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_3_5", "3. Константные функции-члены, explicit конструктора\Материал для лекции\Example_3_5\Example_3_5.vcxproj", "{70BA843E-FF63-4550-B017-563593F72A24}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_3_6", "3. Константные функции-члены, explicit конструктора\Материал для лекции\Example_3_6\Example_3_6.vcxproj", "{EC9D79BE-146F-4340-B75F-0DA8DC299297}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Домашние задания", "Домашние задания", "{14D13988-B87A-41D4-89A3-1DBF13816BF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Лабораторные работы", "Лабораторные работы", "{763B5C87-471C-4B3D-A0CC-48A564167A05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Материал для лекции", "Материал для лекции", "{43A45AF2-8BA1-4101-A3A5-2C5649A89DB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_1_1", "4. Перегрузка операторов\Матерал для лекции\Встреча 1\Example_4_1_1\Example_4_1_1.vcxproj", "{344D1278-65B8-4B83-9AFD-FCA169042442}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Встреча 1", "Встреча 1", "{2C6A2E5F-2F3A-47C2-B376-8EBE242404A8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_1_2", "4. Перегрузка операторов\Матерал для лекции\Встреча 1\Example_4_1_2\Example_4_1_2.vcxproj", "{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_1_3", "4. Перегрузка операторов\Матерал для лекции\Встреча 1\Example_4_1_3\Example_4_1_3.vcxproj", "{B424D4F9-487F-4D38-923E-3AA0D586218E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_1_4", "4. Перегрузка операторов\Матерал для лекции\Встреча 1\Example_4_1_4\Example_4_1_4.vcxproj", "{04742E09-BE8D-4353-83B8-8E9B23A8B195}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_1_5", "4. Перегрузка операторов\Матерал для лекции\Встреча 1\Example_4_1_5\Example_4_1_5.vcxproj", "{991F59DC-353D-435E-96DF-3F54233DDBD3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_1_0", "4. Перегрузка операторов\Матерал для лекции\Встреча 1\Example_4_1_0\Example_4_1_0.vcxproj", "{CB2B8C6A-2021-416D-909D-933FB94FF548}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_1_2_0", "4. Перегрузка операторов\Матерал для лекции\Встреча 1\Example_4_1_2_0\Example_4_1_2_0.vcxproj", "{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Домашние задания после лекции", "Домашние задания после лекции", "{1C3FC7BF-0FB2-4E93-A361-020166492B70}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_After_4_1", "4. Перегрузка операторов\После методического материала\DZ_After_4_1\DZ_After_4_1.vcxproj", "{2DB3054E-6E28-40D2-8374-E1A0D7990E0C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_3_1", "3. Константные функции-члены, explicit конструктора\Домашние задания\DZ_3_1\DZ_3_1.vcxproj", "{CB7ED988-44D5-49F9-B6A8-6AB8625DE923}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Встреча 2", "Встреча 2", "{B214AFAC-A805-4FE4-A47E-98F6985CA176}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Встреча 3", "Встреча 3", "{75E428E3-65BD-408E-A7A1-3264F0FF38BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_1", "4. Перегрузка операторов\Домашние задания\Example_4_1\Example_4_1.vcxproj", "{9990AF17-99BB-4AE1-9559-F2F39906A37E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_2", "4. Перегрузка операторов\Домашние задания\Example_4_2\Example_4_2.vcxproj", "{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_3", "4. Перегрузка операторов\Домашние задания\Example_4_3\Example_4_3.vcxproj", "{9035E4EC-38C9-45AD-945B-16C14692E9CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_4", "4. Перегрузка операторов\Домашние задания\Example_4_4\Example_4_4.vcxproj", "{0E46805E-CE6A-4337-9595-76C791E8869F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_5", "4. Перегрузка операторов\Домашние задания\Example_4_5\Example_4_5.vcxproj", "{B29DD253-784A-490A-840A-FFC99D2CF94F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_6", "4. Перегрузка операторов\Домашние задания\Example_4_6\Example_4_6.vcxproj", "{5316A416-2B30-4CC5-84DC-585B0BAD90CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_7", "4. Перегрузка операторов\Домашние задания\Example_4_7\Example_4_7.vcxproj", "{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_4_8", "4. Перегрузка операторов\Домашние задания\Example_4_8\Example_4_8.vcxproj", "{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -699,6 +747,142 @@ Global
 		{EC9D79BE-146F-4340-B75F-0DA8DC299297}.Release|x64.Build.0 = Release|x64
 		{EC9D79BE-146F-4340-B75F-0DA8DC299297}.Release|x86.ActiveCfg = Release|Win32
 		{EC9D79BE-146F-4340-B75F-0DA8DC299297}.Release|x86.Build.0 = Release|Win32
+		{344D1278-65B8-4B83-9AFD-FCA169042442}.Debug|x64.ActiveCfg = Debug|x64
+		{344D1278-65B8-4B83-9AFD-FCA169042442}.Debug|x64.Build.0 = Debug|x64
+		{344D1278-65B8-4B83-9AFD-FCA169042442}.Debug|x86.ActiveCfg = Debug|Win32
+		{344D1278-65B8-4B83-9AFD-FCA169042442}.Debug|x86.Build.0 = Debug|Win32
+		{344D1278-65B8-4B83-9AFD-FCA169042442}.Release|x64.ActiveCfg = Release|x64
+		{344D1278-65B8-4B83-9AFD-FCA169042442}.Release|x64.Build.0 = Release|x64
+		{344D1278-65B8-4B83-9AFD-FCA169042442}.Release|x86.ActiveCfg = Release|Win32
+		{344D1278-65B8-4B83-9AFD-FCA169042442}.Release|x86.Build.0 = Release|Win32
+		{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C}.Debug|x64.ActiveCfg = Debug|x64
+		{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C}.Debug|x64.Build.0 = Debug|x64
+		{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C}.Debug|x86.ActiveCfg = Debug|Win32
+		{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C}.Debug|x86.Build.0 = Debug|Win32
+		{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C}.Release|x64.ActiveCfg = Release|x64
+		{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C}.Release|x64.Build.0 = Release|x64
+		{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C}.Release|x86.ActiveCfg = Release|Win32
+		{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C}.Release|x86.Build.0 = Release|Win32
+		{B424D4F9-487F-4D38-923E-3AA0D586218E}.Debug|x64.ActiveCfg = Debug|x64
+		{B424D4F9-487F-4D38-923E-3AA0D586218E}.Debug|x64.Build.0 = Debug|x64
+		{B424D4F9-487F-4D38-923E-3AA0D586218E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B424D4F9-487F-4D38-923E-3AA0D586218E}.Debug|x86.Build.0 = Debug|Win32
+		{B424D4F9-487F-4D38-923E-3AA0D586218E}.Release|x64.ActiveCfg = Release|x64
+		{B424D4F9-487F-4D38-923E-3AA0D586218E}.Release|x64.Build.0 = Release|x64
+		{B424D4F9-487F-4D38-923E-3AA0D586218E}.Release|x86.ActiveCfg = Release|Win32
+		{B424D4F9-487F-4D38-923E-3AA0D586218E}.Release|x86.Build.0 = Release|Win32
+		{04742E09-BE8D-4353-83B8-8E9B23A8B195}.Debug|x64.ActiveCfg = Debug|x64
+		{04742E09-BE8D-4353-83B8-8E9B23A8B195}.Debug|x64.Build.0 = Debug|x64
+		{04742E09-BE8D-4353-83B8-8E9B23A8B195}.Debug|x86.ActiveCfg = Debug|Win32
+		{04742E09-BE8D-4353-83B8-8E9B23A8B195}.Debug|x86.Build.0 = Debug|Win32
+		{04742E09-BE8D-4353-83B8-8E9B23A8B195}.Release|x64.ActiveCfg = Release|x64
+		{04742E09-BE8D-4353-83B8-8E9B23A8B195}.Release|x64.Build.0 = Release|x64
+		{04742E09-BE8D-4353-83B8-8E9B23A8B195}.Release|x86.ActiveCfg = Release|Win32
+		{04742E09-BE8D-4353-83B8-8E9B23A8B195}.Release|x86.Build.0 = Release|Win32
+		{991F59DC-353D-435E-96DF-3F54233DDBD3}.Debug|x64.ActiveCfg = Debug|x64
+		{991F59DC-353D-435E-96DF-3F54233DDBD3}.Debug|x64.Build.0 = Debug|x64
+		{991F59DC-353D-435E-96DF-3F54233DDBD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{991F59DC-353D-435E-96DF-3F54233DDBD3}.Debug|x86.Build.0 = Debug|Win32
+		{991F59DC-353D-435E-96DF-3F54233DDBD3}.Release|x64.ActiveCfg = Release|x64
+		{991F59DC-353D-435E-96DF-3F54233DDBD3}.Release|x64.Build.0 = Release|x64
+		{991F59DC-353D-435E-96DF-3F54233DDBD3}.Release|x86.ActiveCfg = Release|Win32
+		{991F59DC-353D-435E-96DF-3F54233DDBD3}.Release|x86.Build.0 = Release|Win32
+		{CB2B8C6A-2021-416D-909D-933FB94FF548}.Debug|x64.ActiveCfg = Debug|x64
+		{CB2B8C6A-2021-416D-909D-933FB94FF548}.Debug|x64.Build.0 = Debug|x64
+		{CB2B8C6A-2021-416D-909D-933FB94FF548}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB2B8C6A-2021-416D-909D-933FB94FF548}.Debug|x86.Build.0 = Debug|Win32
+		{CB2B8C6A-2021-416D-909D-933FB94FF548}.Release|x64.ActiveCfg = Release|x64
+		{CB2B8C6A-2021-416D-909D-933FB94FF548}.Release|x64.Build.0 = Release|x64
+		{CB2B8C6A-2021-416D-909D-933FB94FF548}.Release|x86.ActiveCfg = Release|Win32
+		{CB2B8C6A-2021-416D-909D-933FB94FF548}.Release|x86.Build.0 = Release|Win32
+		{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2}.Debug|x64.ActiveCfg = Debug|x64
+		{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2}.Debug|x64.Build.0 = Debug|x64
+		{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2}.Debug|x86.Build.0 = Debug|Win32
+		{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2}.Release|x64.ActiveCfg = Release|x64
+		{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2}.Release|x64.Build.0 = Release|x64
+		{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2}.Release|x86.ActiveCfg = Release|Win32
+		{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2}.Release|x86.Build.0 = Release|Win32
+		{2DB3054E-6E28-40D2-8374-E1A0D7990E0C}.Debug|x64.ActiveCfg = Debug|x64
+		{2DB3054E-6E28-40D2-8374-E1A0D7990E0C}.Debug|x64.Build.0 = Debug|x64
+		{2DB3054E-6E28-40D2-8374-E1A0D7990E0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DB3054E-6E28-40D2-8374-E1A0D7990E0C}.Debug|x86.Build.0 = Debug|Win32
+		{2DB3054E-6E28-40D2-8374-E1A0D7990E0C}.Release|x64.ActiveCfg = Release|x64
+		{2DB3054E-6E28-40D2-8374-E1A0D7990E0C}.Release|x64.Build.0 = Release|x64
+		{2DB3054E-6E28-40D2-8374-E1A0D7990E0C}.Release|x86.ActiveCfg = Release|Win32
+		{2DB3054E-6E28-40D2-8374-E1A0D7990E0C}.Release|x86.Build.0 = Release|Win32
+		{CB7ED988-44D5-49F9-B6A8-6AB8625DE923}.Debug|x64.ActiveCfg = Debug|x64
+		{CB7ED988-44D5-49F9-B6A8-6AB8625DE923}.Debug|x64.Build.0 = Debug|x64
+		{CB7ED988-44D5-49F9-B6A8-6AB8625DE923}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB7ED988-44D5-49F9-B6A8-6AB8625DE923}.Debug|x86.Build.0 = Debug|Win32
+		{CB7ED988-44D5-49F9-B6A8-6AB8625DE923}.Release|x64.ActiveCfg = Release|x64
+		{CB7ED988-44D5-49F9-B6A8-6AB8625DE923}.Release|x64.Build.0 = Release|x64
+		{CB7ED988-44D5-49F9-B6A8-6AB8625DE923}.Release|x86.ActiveCfg = Release|Win32
+		{CB7ED988-44D5-49F9-B6A8-6AB8625DE923}.Release|x86.Build.0 = Release|Win32
+		{9990AF17-99BB-4AE1-9559-F2F39906A37E}.Debug|x64.ActiveCfg = Debug|x64
+		{9990AF17-99BB-4AE1-9559-F2F39906A37E}.Debug|x64.Build.0 = Debug|x64
+		{9990AF17-99BB-4AE1-9559-F2F39906A37E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9990AF17-99BB-4AE1-9559-F2F39906A37E}.Debug|x86.Build.0 = Debug|Win32
+		{9990AF17-99BB-4AE1-9559-F2F39906A37E}.Release|x64.ActiveCfg = Release|x64
+		{9990AF17-99BB-4AE1-9559-F2F39906A37E}.Release|x64.Build.0 = Release|x64
+		{9990AF17-99BB-4AE1-9559-F2F39906A37E}.Release|x86.ActiveCfg = Release|Win32
+		{9990AF17-99BB-4AE1-9559-F2F39906A37E}.Release|x86.Build.0 = Release|Win32
+		{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0}.Debug|x64.ActiveCfg = Debug|x64
+		{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0}.Debug|x64.Build.0 = Debug|x64
+		{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0}.Debug|x86.Build.0 = Debug|Win32
+		{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0}.Release|x64.ActiveCfg = Release|x64
+		{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0}.Release|x64.Build.0 = Release|x64
+		{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0}.Release|x86.ActiveCfg = Release|Win32
+		{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0}.Release|x86.Build.0 = Release|Win32
+		{9035E4EC-38C9-45AD-945B-16C14692E9CD}.Debug|x64.ActiveCfg = Debug|x64
+		{9035E4EC-38C9-45AD-945B-16C14692E9CD}.Debug|x64.Build.0 = Debug|x64
+		{9035E4EC-38C9-45AD-945B-16C14692E9CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{9035E4EC-38C9-45AD-945B-16C14692E9CD}.Debug|x86.Build.0 = Debug|Win32
+		{9035E4EC-38C9-45AD-945B-16C14692E9CD}.Release|x64.ActiveCfg = Release|x64
+		{9035E4EC-38C9-45AD-945B-16C14692E9CD}.Release|x64.Build.0 = Release|x64
+		{9035E4EC-38C9-45AD-945B-16C14692E9CD}.Release|x86.ActiveCfg = Release|Win32
+		{9035E4EC-38C9-45AD-945B-16C14692E9CD}.Release|x86.Build.0 = Release|Win32
+		{0E46805E-CE6A-4337-9595-76C791E8869F}.Debug|x64.ActiveCfg = Debug|x64
+		{0E46805E-CE6A-4337-9595-76C791E8869F}.Debug|x64.Build.0 = Debug|x64
+		{0E46805E-CE6A-4337-9595-76C791E8869F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E46805E-CE6A-4337-9595-76C791E8869F}.Debug|x86.Build.0 = Debug|Win32
+		{0E46805E-CE6A-4337-9595-76C791E8869F}.Release|x64.ActiveCfg = Release|x64
+		{0E46805E-CE6A-4337-9595-76C791E8869F}.Release|x64.Build.0 = Release|x64
+		{0E46805E-CE6A-4337-9595-76C791E8869F}.Release|x86.ActiveCfg = Release|Win32
+		{0E46805E-CE6A-4337-9595-76C791E8869F}.Release|x86.Build.0 = Release|Win32
+		{B29DD253-784A-490A-840A-FFC99D2CF94F}.Debug|x64.ActiveCfg = Debug|x64
+		{B29DD253-784A-490A-840A-FFC99D2CF94F}.Debug|x64.Build.0 = Debug|x64
+		{B29DD253-784A-490A-840A-FFC99D2CF94F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B29DD253-784A-490A-840A-FFC99D2CF94F}.Debug|x86.Build.0 = Debug|Win32
+		{B29DD253-784A-490A-840A-FFC99D2CF94F}.Release|x64.ActiveCfg = Release|x64
+		{B29DD253-784A-490A-840A-FFC99D2CF94F}.Release|x64.Build.0 = Release|x64
+		{B29DD253-784A-490A-840A-FFC99D2CF94F}.Release|x86.ActiveCfg = Release|Win32
+		{B29DD253-784A-490A-840A-FFC99D2CF94F}.Release|x86.Build.0 = Release|Win32
+		{5316A416-2B30-4CC5-84DC-585B0BAD90CF}.Debug|x64.ActiveCfg = Debug|x64
+		{5316A416-2B30-4CC5-84DC-585B0BAD90CF}.Debug|x64.Build.0 = Debug|x64
+		{5316A416-2B30-4CC5-84DC-585B0BAD90CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{5316A416-2B30-4CC5-84DC-585B0BAD90CF}.Debug|x86.Build.0 = Debug|Win32
+		{5316A416-2B30-4CC5-84DC-585B0BAD90CF}.Release|x64.ActiveCfg = Release|x64
+		{5316A416-2B30-4CC5-84DC-585B0BAD90CF}.Release|x64.Build.0 = Release|x64
+		{5316A416-2B30-4CC5-84DC-585B0BAD90CF}.Release|x86.ActiveCfg = Release|Win32
+		{5316A416-2B30-4CC5-84DC-585B0BAD90CF}.Release|x86.Build.0 = Release|Win32
+		{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8}.Debug|x64.ActiveCfg = Debug|x64
+		{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8}.Debug|x64.Build.0 = Debug|x64
+		{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8}.Debug|x86.Build.0 = Debug|Win32
+		{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8}.Release|x64.ActiveCfg = Release|x64
+		{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8}.Release|x64.Build.0 = Release|x64
+		{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8}.Release|x86.ActiveCfg = Release|Win32
+		{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8}.Release|x86.Build.0 = Release|Win32
+		{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01}.Debug|x64.ActiveCfg = Debug|x64
+		{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01}.Debug|x64.Build.0 = Debug|x64
+		{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01}.Debug|x86.ActiveCfg = Debug|Win32
+		{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01}.Debug|x86.Build.0 = Debug|Win32
+		{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01}.Release|x64.ActiveCfg = Release|x64
+		{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01}.Release|x64.Build.0 = Release|x64
+		{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01}.Release|x86.ActiveCfg = Release|Win32
+		{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -720,7 +904,7 @@ Global
 		{AAB7CC6B-0564-4F42-8F74-24EF3F1B6E34} = {83E61BF4-1487-4C2D-BCAB-04BE548293C8}
 		{15D99187-DB84-471A-9766-99F4DAEB7CB9} = {DA51A6E0-57A4-415C-B544-ECD7F2634C6C}
 		{A3707FB5-8E05-4C01-89AE-B9D753F31E57} = {DA51A6E0-57A4-415C-B544-ECD7F2634C6C}
-		{FE290502-91CB-40C4-A27D-0A075A421A4B} = {446EF012-321F-4179-811E-A7E50E4485D5}
+		{FE290502-91CB-40C4-A27D-0A075A421A4B} = {4C9EF0A3-20E5-456E-9D61-0D6AAAD3F166}
 		{B10C750A-4664-4A7E-9E19-6637117B0280} = {FE290502-91CB-40C4-A27D-0A075A421A4B}
 		{1DD20640-C9C7-450B-AF39-B356EFCD83F9} = {FE290502-91CB-40C4-A27D-0A075A421A4B}
 		{B72094BD-2386-4F47-A95F-4E190DD7CF18} = {FE290502-91CB-40C4-A27D-0A075A421A4B}
@@ -744,7 +928,7 @@ Global
 		{670DC5C9-3EC1-4948-A55D-89835282FEA5} = {9A32190D-6033-4F4E-ADA9-370DA734EFD5}
 		{3AB351CD-E5CC-4C8C-AFC1-2293287B3E66} = {D5C91612-3DEA-4F27-902E-C56E779A7E78}
 		{C61ED172-08E7-4692-AFD7-66074535689E} = {D5C91612-3DEA-4F27-902E-C56E779A7E78}
-		{B329AC6B-7966-43C2-B9F3-FAD1F021943E} = {4EC9F4C8-4DB9-4024-A937-12E387EF574C}
+		{B329AC6B-7966-43C2-B9F3-FAD1F021943E} = {FF273E56-8062-49AE-AE35-97A071D2C649}
 		{2A5AF492-1FB1-4158-8DFF-806B9EF6CC7C} = {4EC9F4C8-4DB9-4024-A937-12E387EF574C}
 		{E87A3146-00EE-4EB7-BD6E-0247020FE20F} = {B329AC6B-7966-43C2-B9F3-FAD1F021943E}
 		{448A38EC-EDDA-4028-A386-D753C8869E0F} = {B329AC6B-7966-43C2-B9F3-FAD1F021943E}
@@ -782,6 +966,30 @@ Global
 		{F68A53BE-7F0A-4241-B8E0-587641F57F9E} = {459BAB7F-B460-4AA8-A24A-2E33DB107326}
 		{70BA843E-FF63-4550-B017-563593F72A24} = {459BAB7F-B460-4AA8-A24A-2E33DB107326}
 		{EC9D79BE-146F-4340-B75F-0DA8DC299297} = {459BAB7F-B460-4AA8-A24A-2E33DB107326}
+		{14D13988-B87A-41D4-89A3-1DBF13816BF1} = {D70C3C18-8B26-4CEE-8AEF-0D51A34CA271}
+		{763B5C87-471C-4B3D-A0CC-48A564167A05} = {D70C3C18-8B26-4CEE-8AEF-0D51A34CA271}
+		{43A45AF2-8BA1-4101-A3A5-2C5649A89DB8} = {D70C3C18-8B26-4CEE-8AEF-0D51A34CA271}
+		{344D1278-65B8-4B83-9AFD-FCA169042442} = {2C6A2E5F-2F3A-47C2-B376-8EBE242404A8}
+		{2C6A2E5F-2F3A-47C2-B376-8EBE242404A8} = {43A45AF2-8BA1-4101-A3A5-2C5649A89DB8}
+		{29C0148C-BFD1-4C37-AEAF-C08ACB6F4D1C} = {2C6A2E5F-2F3A-47C2-B376-8EBE242404A8}
+		{B424D4F9-487F-4D38-923E-3AA0D586218E} = {2C6A2E5F-2F3A-47C2-B376-8EBE242404A8}
+		{04742E09-BE8D-4353-83B8-8E9B23A8B195} = {2C6A2E5F-2F3A-47C2-B376-8EBE242404A8}
+		{991F59DC-353D-435E-96DF-3F54233DDBD3} = {2C6A2E5F-2F3A-47C2-B376-8EBE242404A8}
+		{CB2B8C6A-2021-416D-909D-933FB94FF548} = {2C6A2E5F-2F3A-47C2-B376-8EBE242404A8}
+		{9E1A5CF0-5DE7-42B0-B340-E9A9D32B32B2} = {2C6A2E5F-2F3A-47C2-B376-8EBE242404A8}
+		{1C3FC7BF-0FB2-4E93-A361-020166492B70} = {D70C3C18-8B26-4CEE-8AEF-0D51A34CA271}
+		{2DB3054E-6E28-40D2-8374-E1A0D7990E0C} = {1C3FC7BF-0FB2-4E93-A361-020166492B70}
+		{CB7ED988-44D5-49F9-B6A8-6AB8625DE923} = {966340B1-42A3-4E22-A195-D9A2F535FBB4}
+		{B214AFAC-A805-4FE4-A47E-98F6985CA176} = {43A45AF2-8BA1-4101-A3A5-2C5649A89DB8}
+		{75E428E3-65BD-408E-A7A1-3264F0FF38BA} = {43A45AF2-8BA1-4101-A3A5-2C5649A89DB8}
+		{9990AF17-99BB-4AE1-9559-F2F39906A37E} = {14D13988-B87A-41D4-89A3-1DBF13816BF1}
+		{98CC2794-CD0E-4CA0-9D44-FDF2918EF5E0} = {14D13988-B87A-41D4-89A3-1DBF13816BF1}
+		{9035E4EC-38C9-45AD-945B-16C14692E9CD} = {14D13988-B87A-41D4-89A3-1DBF13816BF1}
+		{0E46805E-CE6A-4337-9595-76C791E8869F} = {14D13988-B87A-41D4-89A3-1DBF13816BF1}
+		{B29DD253-784A-490A-840A-FFC99D2CF94F} = {14D13988-B87A-41D4-89A3-1DBF13816BF1}
+		{5316A416-2B30-4CC5-84DC-585B0BAD90CF} = {14D13988-B87A-41D4-89A3-1DBF13816BF1}
+		{6C1DB653-7BA6-46F7-9356-7BCE1DA591B8} = {14D13988-B87A-41D4-89A3-1DBF13816BF1}
+		{9FDE7FA5-23C2-4440-ADCC-F96C4031FF01} = {14D13988-B87A-41D4-89A3-1DBF13816BF1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AA684971-2F25-4E18-9CC7-5939EFC9FFD3}
