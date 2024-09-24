@@ -8,6 +8,10 @@ public:
 	Point(int pX, int pY) : x{ pX }, y{ pY } {}
 	Point& setX(int pX) { x = pX; return *this; }
 	Point& setY(int pY) { y = pY; return *this; }
+
+	//Point& setX(double pX) = delete;
+	//Point& setY(double pY) = delete;
+
 	void showPoint() const
 	{
 		std::cout << '(' << x << ',' << y << ')';

@@ -63,7 +63,7 @@ void DynArray::randomize()
 		arr[i] = rand() % 10;
 	}
 }
-DynArray arrayFactory(int arrSize)
+DynArray CreateRandomDynArray(int arrSize)
 {
 	DynArray arr{ arrSize };
 	arr.randomize();
@@ -71,10 +71,11 @@ DynArray arrayFactory(int arrSize)
 }
 int main()
 {
-	DynArray ar1{ arrayFactory(10) };
+	DynArray ar1{ CreateRandomDynArray(10) };
 	std::cout << "ar1 elements: ";
 	ar1.print();
-	DynArray ar2{ ar1 };
+	DynArray ar2{ ar1 }; ()
+	ar1 = ar2;
 	std::cout << "ar2 elements: ";
 	ar2.print();
 	return 0;

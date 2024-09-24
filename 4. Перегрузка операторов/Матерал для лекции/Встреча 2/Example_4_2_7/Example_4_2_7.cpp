@@ -42,6 +42,7 @@ public:
 			<< size << " elements, for " << this
 			<< '\n';
 	}
+
 	DynArray& operator=(const DynArray& object)
 	{
 		// проверка на самоприсваивание
@@ -88,6 +89,7 @@ public:
 
 		return *this;
 	}
+	
 	int getElem(int idx)const { return arr[idx]; }
 	void setElem(int idx, int val) { arr[idx] = val; }
 	void print()const;
@@ -117,7 +119,7 @@ void DynArray::randomize()
 	}
 }
 
-DynArray arrayFactory(int arrSize)
+DynArray CreateRandomDynArray(int arrSize)
 {
 	DynArray arr{ arrSize };
 	arr.randomize();
@@ -126,7 +128,8 @@ DynArray arrayFactory(int arrSize)
 
 int main()
 {
-	DynArray ar1{ arrayFactory(10) };
+	DynArray ar0 = CreateRandomDynArray(10);
+	DynArray ar1{ std::move(ar0) };
 	std::cout << "ar1 elements: ";
 	ar1.print();
 

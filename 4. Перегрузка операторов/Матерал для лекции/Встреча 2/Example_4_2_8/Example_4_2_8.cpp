@@ -69,6 +69,7 @@ public:
 			<< '\n';
 		return *this;
 	}
+
 	int getElem(int idx)const { return arr[idx]; }
 	void setElem(int idx, int val) { arr[idx] = val; }
 	void print()const;
@@ -100,7 +101,7 @@ void DynArray::randomize()
 	}
 }
 
-DynArray arrayFactory(int arrSize)
+DynArray CreateRandomDynArray(int arrSize)
 {
 	DynArray arr{ arrSize };
 	arr.randomize();
@@ -109,12 +110,15 @@ DynArray arrayFactory(int arrSize)
 
 int main()
 {
-	DynArray ar1{ arrayFactory(10) };
+	DynArray ar1{ std::move(CreateRandomDynArray(10)) };
 	std::cout << "ar1 elements: ";
 	ar1.print();
+
 	std::cout << "\nCreate new array for 5 elements.\n\n";
-	ar1 = arrayFactory(5);
+
+	ar1 = std::move(CreateRandomDynArray(5));
 	std::cout << "ar1 elements: ";
 	ar1.print();
+
 	return 0;
 }

@@ -100,7 +100,7 @@ void DynArray::randomize()
 	}
 }
 
-DynArray arrayFactory(int arrSize)
+DynArray CreateRandomDynArray(int arrSize)
 {
 	DynArray arr{ arrSize };
 	arr.randomize();
@@ -109,20 +109,19 @@ DynArray arrayFactory(int arrSize)
 
 int main()
 {
-	DynArray ar1{ arrayFactory(10) };
+	DynArray ar1{ CreateRandomDynArray(10) };
 	std::cout << "ar1 elements: ";
 	ar1.print();
 	std::cout << "\nMove content from ar1 to ar2.\n\n";
-	DynArray ar2{ std::move(ar1) }; /* ar1 теперь "пуст",
-	но "жив"! */
+	DynArray ar2{ std::move(ar1) }; /* ar1 теперь "пуст", но "жив"! */
 	std::cout << "ar1 elements: ";
 	ar1.print();
+
 	std::cout << "ar2 elements: ";
 	ar2.print();
+	
 	std::cout << "\nReuse ar1.\n\n";
-	ar1 = arrayFactory(5); /* ar1 "жив" а следовательно
-	может быть повторно
-	использован */
+	ar1 = CreateRandomDynArray(5); /* ar1 "жив" а следовательно	может быть повторно	использован */
 	std::cout << "ar1 elements: ";
 	ar1.print();
 	return 0;
