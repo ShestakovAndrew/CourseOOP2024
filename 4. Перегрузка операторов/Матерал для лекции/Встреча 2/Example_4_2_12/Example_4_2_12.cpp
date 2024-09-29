@@ -35,7 +35,7 @@ public:
 			<< '\n';
 		return *this;
 	}
-	int getElem(int idx)const { return arr[idx]; }
+	int getElem(int idx) const { return arr[idx]; }
 	void setElem(int idx, int val) { arr[idx] = val; }
 	void print()const;
 	void randomize();
