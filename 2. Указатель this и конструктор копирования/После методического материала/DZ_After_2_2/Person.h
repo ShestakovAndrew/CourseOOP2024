@@ -19,8 +19,6 @@ public:
 		return instanceCount;
 	} 
 
-
-
 private:
 
 	int m_id;

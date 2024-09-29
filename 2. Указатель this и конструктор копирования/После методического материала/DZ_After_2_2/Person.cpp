@@ -21,7 +21,7 @@ Person::Person() : Person(0, "Имя", "Фамилия", "Отчество", Date())
 
 Person::Person(const Person& person)
 {
-
+	
 }
 
 Person::~Person()
