@@ -1,27 +1,51 @@
-#include "Person.h"
+#include <iostream>
 #include <memory>
 
-Person::Person(int id, const char* firstName, const char* middleName, const char* lastName, Date birthDate)
+#include "Person.h"
+
+Person::Person(int id, const char* lastName, const char* firstName, const char* middleName, Date birthDate)
 	: m_id{ id }, m_birthDate{ birthDate }
 {
+	m_lastName = new char[strlen(lastName) + 1];
 	m_firstName = new char[strlen(firstName) + 1];
 	m_middleName = new char[strlen(middleName) + 1];
-	m_lastName = new char[strlen(lastName) + 1];
 
-	strcpy_s(m_firstName, strlen(firstName), firstName);
-	strcpy_s(m_middleName, strlen(middleName), middleName);
-	strcpy_s(m_lastName, strlen(lastName), lastName);
+	strcpy_s(m_lastName, sizeof(lastName) * 2, lastName);
+	strcpy_s(m_firstName, sizeof(firstName) * 2, firstName);
+	strcpy_s(m_middleName, sizeof(middleName) * 2, middleName);
 
 	instanceCount++;
 }
 
-Person::Person() : Person(0, "Имя", "Фамилия", "Отчество", Date())
+Person::Person() : Person(0, "Неизвестно", "Неизвестно", "Неизвестно", Date())
 {
 }
 
-Person::Person(const Person& person)
+Person::Person(const Person& other)
+	: m_id{ other.m_id }, m_birthDate{ other.m_birthDate }
 {
+	m_lastName = new char[strlen(other.m_lastName) + 1];
+	m_firstName = new char[strlen(other.m_firstName) + 1];
+	m_middleName = new char[strlen(other.m_middleName) + 1];
+
+	strcpy_s(m_lastName, sizeof(other.m_lastName) * 2, other.m_lastName);
+	strcpy_s(m_firstName, sizeof(other.m_firstName) * 2, other.m_firstName);
+	strcpy_s(m_middleName, sizeof(other.m_middleName) * 2, other.m_middleName);
 	
+	instanceCount++;
+}
+
+void Person::Display() const
+{
+	std::cout << "ID: " << m_id << std::endl
+		<< "Фамилия: " << m_lastName << std::endl
+		<< "Имя: " << m_firstName << std::endl
+		<< "Отчетство: " << m_middleName << std::endl
+		<< "Дата рождения: ";
+
+	m_birthDate.Display();
+
+	std::cout << std::endl;
 }
 
 Person::~Person()

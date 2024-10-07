@@ -8,8 +8,12 @@ private:
 	int m_year;
 
 public:
-	Date() = default;
+	Date();
 	Date(int day, int month, int year);
+
+	int GetDay() const;
+	int GetMonth() const;
+	int GetYear() const;
 
 	void Display() const;
 };
