@@ -1,6 +1,4 @@
-﻿// les05_08
-
-#include <iostream>
+﻿#include <iostream>
 #include <vector>
 #include <conio.h>
 using namespace std;

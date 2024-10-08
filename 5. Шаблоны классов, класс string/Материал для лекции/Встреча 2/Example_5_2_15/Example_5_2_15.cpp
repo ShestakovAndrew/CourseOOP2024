@@ -31,8 +31,8 @@ struct Pair
 
 int main()
 {
-	Pair<int, int>point1(0, 0);
-	Pair<int, int>point2(1, 1);
+	Pair<int, int> point1(0, 0);
+	Pair<int, int> point2(1, 1);
 	point1.display();
 	cout << " ";
 	point2.display();
