@@ -1,6 +1,4 @@
-﻿// les05_14a
-
-#include <iostream>
+﻿#include <iostream>
 #include <initializer_list>
 #include <conio.h>
 using namespace std;

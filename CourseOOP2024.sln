@@ -391,17 +391,19 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_3_5", "5. Шаб�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_3_6", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_16\Example_5_2_16.vcxproj", "{20EDA857-AC9B-4A4F-8A7F-563DB016E412}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_3_7", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_17\Example_5_2_17.vcxproj", "{CEDB4ECB-3924-4C4A-9497-6624AB23A166}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_4_1", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_17\Example_5_2_17.vcxproj", "{CEDB4ECB-3924-4C4A-9497-6624AB23A166}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_3_8", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_18\Example_5_2_18.vcxproj", "{5CA8313C-E100-40B8-A799-45D423DD142D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_4_2", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_18\Example_5_2_18.vcxproj", "{5CA8313C-E100-40B8-A799-45D423DD142D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_3_9", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_19\Example_5_2_19.vcxproj", "{BE66954A-49DC-4253-B0FE-E78A48F1180F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_4_3", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_19\Example_5_2_19.vcxproj", "{BE66954A-49DC-4253-B0FE-E78A48F1180F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_3_10", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_20\Example_5_2_20.vcxproj", "{B7CAFDD9-B4B4-4AB6-982E-89B20C4FE4CA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_4_4", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_20\Example_5_2_20.vcxproj", "{B7CAFDD9-B4B4-4AB6-982E-89B20C4FE4CA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_3_11", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_21\Example_5_2_21.vcxproj", "{0698A081-6CF5-4958-883D-F8BD90C4024E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_4_5", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_21\Example_5_2_21.vcxproj", "{0698A081-6CF5-4958-883D-F8BD90C4024E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_3_12", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_22\Example_5_2_22.vcxproj", "{426F1592-82CE-4FA8-8856-06205BEF992C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_5_4_6", "5. Шаблоны классов, класс string\Материал для лекции\Встреча 2\Example_5_2_22\Example_5_2_22.vcxproj", "{426F1592-82CE-4FA8-8856-06205BEF992C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Встреча 4", "Встреча 4", "{00683A5D-B115-40E9-A1AE-04DEE68781C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1852,12 +1854,13 @@ Global
 		{54291F09-2A3E-4F14-884B-CA3BF919D78E} = {5E41AE9D-2B2E-4B66-B78D-E5AE50837E0B}
 		{B248D69E-EF24-4094-9F1C-14B0EFDCC626} = {5E41AE9D-2B2E-4B66-B78D-E5AE50837E0B}
 		{20EDA857-AC9B-4A4F-8A7F-563DB016E412} = {5E41AE9D-2B2E-4B66-B78D-E5AE50837E0B}
-		{CEDB4ECB-3924-4C4A-9497-6624AB23A166} = {5E41AE9D-2B2E-4B66-B78D-E5AE50837E0B}
-		{5CA8313C-E100-40B8-A799-45D423DD142D} = {5E41AE9D-2B2E-4B66-B78D-E5AE50837E0B}
-		{BE66954A-49DC-4253-B0FE-E78A48F1180F} = {5E41AE9D-2B2E-4B66-B78D-E5AE50837E0B}
-		{B7CAFDD9-B4B4-4AB6-982E-89B20C4FE4CA} = {5E41AE9D-2B2E-4B66-B78D-E5AE50837E0B}
-		{0698A081-6CF5-4958-883D-F8BD90C4024E} = {5E41AE9D-2B2E-4B66-B78D-E5AE50837E0B}
-		{426F1592-82CE-4FA8-8856-06205BEF992C} = {5E41AE9D-2B2E-4B66-B78D-E5AE50837E0B}
+		{CEDB4ECB-3924-4C4A-9497-6624AB23A166} = {00683A5D-B115-40E9-A1AE-04DEE68781C7}
+		{5CA8313C-E100-40B8-A799-45D423DD142D} = {00683A5D-B115-40E9-A1AE-04DEE68781C7}
+		{BE66954A-49DC-4253-B0FE-E78A48F1180F} = {00683A5D-B115-40E9-A1AE-04DEE68781C7}
+		{B7CAFDD9-B4B4-4AB6-982E-89B20C4FE4CA} = {00683A5D-B115-40E9-A1AE-04DEE68781C7}
+		{0698A081-6CF5-4958-883D-F8BD90C4024E} = {00683A5D-B115-40E9-A1AE-04DEE68781C7}
+		{426F1592-82CE-4FA8-8856-06205BEF992C} = {00683A5D-B115-40E9-A1AE-04DEE68781C7}
+		{00683A5D-B115-40E9-A1AE-04DEE68781C7} = {BCA341FB-22FF-4AC8-9B52-84DB5C660454}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AA684971-2F25-4E18-9CC7-5939EFC9FFD3}

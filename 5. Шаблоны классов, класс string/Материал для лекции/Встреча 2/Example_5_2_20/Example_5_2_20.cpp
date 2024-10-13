@@ -1,5 +1,4 @@
-﻿// les05_14
-#include <iostream>
+﻿#include <iostream>
 #include <conio.h>
 using namespace std;
 
