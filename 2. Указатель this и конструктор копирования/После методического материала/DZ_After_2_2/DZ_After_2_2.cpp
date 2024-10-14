@@ -2,8 +2,6 @@
 
 #include "Person.h"
 
-int Person::instanceCount = 0;
-
 int main()
 {
 	setlocale(LC_ALL, "rus");

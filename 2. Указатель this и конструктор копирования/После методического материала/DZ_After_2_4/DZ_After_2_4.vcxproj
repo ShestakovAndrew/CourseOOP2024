@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\DZ_After_2_2\Date.cpp" />
+    <ClCompile Include="..\DZ_After_2_2\Person.cpp" />
+    <ClCompile Include="Apartment.cpp" />
     <ClCompile Include="DZ_After_2_4.cpp" />
+    <ClCompile Include="House.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\DZ_After_2_2\Date.h" />
+    <ClInclude Include="..\DZ_After_2_2\Person.h" />
+    <ClInclude Include="Apartment.h" />
+    <ClInclude Include="House.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

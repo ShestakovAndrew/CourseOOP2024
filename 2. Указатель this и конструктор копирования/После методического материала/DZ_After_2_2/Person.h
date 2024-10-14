@@ -17,6 +17,8 @@ public:
 		return instanceCount;
 	} 
 
+	Person& operator=(const Person& other);
+
 	~Person();
 
 private:

@@ -3,6 +3,8 @@
 
 #include "Person.h"
 
+int Person::instanceCount = 0;
+
 Person::Person(int id, const char* lastName, const char* firstName, const char* middleName, Date birthDate)
 	: m_id{ id }, m_birthDate{ birthDate }
 {
@@ -15,6 +17,8 @@ Person::Person(int id, const char* lastName, const char* firstName, const char* 
 	strcpy_s(m_middleName, sizeof(middleName) * 2, middleName);
 
 	instanceCount++;
+
+	std::cout << "Person constr: " << this << std::endl;
 }
 
 Person::Person() : Person(0, "Неизвестно", "Неизвестно", "Неизвестно", Date())
@@ -48,8 +52,30 @@ void Person::Display() const
 	std::cout << std::endl;
 }
 
+Person& Person::operator=(const Person& other)
+{
+	if (this == &other) return *this;
+
+	delete[] m_firstName;
+	delete[] m_middleName;
+	delete[] m_lastName;
+
+	m_id = other.m_id;
+
+	m_lastName = new char[strlen(other.m_lastName) + 1];
+	m_firstName = new char[strlen(other.m_firstName) + 1];
+	m_middleName = new char[strlen(other.m_middleName) + 1];
+
+	strcpy_s(m_lastName, sizeof(other.m_lastName) * 2, other.m_lastName);
+	strcpy_s(m_firstName, sizeof(other.m_firstName) * 2, other.m_firstName);
+	strcpy_s(m_middleName, sizeof(other.m_middleName) * 2, other.m_middleName);
+
+	return *this;
+}
+
 Person::~Person()
 {
+	std::cout << "Person: " << this << std::endl;
 	delete[] m_firstName;
 	delete[] m_middleName;
 	delete[] m_lastName;
